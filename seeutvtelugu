@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
+https://t.me/seeutv
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 1
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/933.ts
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 2
@@ -12,6 +14,8 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/935.ts
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/928.ts
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="Telugu",Gemini Comedy
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/971.ts
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
+https://t.me/seeutv
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="Telugu",Gemini Movies HD
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/930.ts
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="Gemini Music HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="Telugu",Gemini Music HD
@@ -30,6 +34,8 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/977.ts
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/975.ts
 #EXTINF:-1 tvg-id="dd.saptagiri.in" tvg-name="DD Saptagiri" tvg-logo="https://watchindia.net/images/channels/telugu/DD_Saptagiri.png" group-title="Telugu",DD Saptagiri
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/974.ts
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
+https://t.me/seeutv
 #EXTINF:-1 tvg-id="etvtelugu.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="Telugu",ETV HD
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/936.ts
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="Telugu",ETV HDhttp://watchindia.net:8880/live/dharmend/PTukavDWzh/2203.ts
@@ -61,5 +67,7 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/943.ts
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/942.ts
 #EXTINF:-1 tvg-id="zee.cinemalu.in" tvg-name="Zee Cinemalu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="Telugu",Zee Cinemalu
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/941.ts
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
+https://t.me/seeutv
 #EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="Telugu",Zee Telugu
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/940.ts
