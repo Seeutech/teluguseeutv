@@ -1,6 +1,6 @@
 #EXTM3U tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 1
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/933.ts
-#EXTM3U:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 2
+#EXTINT:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 2
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2168.ts
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="Telugu",Star Maa Movies HD
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/934.ts
