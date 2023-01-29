@@ -1,4 +1,4 @@
-#EXTM3U tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 1
+#EXTM3U
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/933.ts
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 2
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2168.ts
