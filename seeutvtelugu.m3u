@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 2
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2168.ts
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="Telugu",Star Maa Movies HD
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/934.ts
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Music" tvg-logo="https://watchindia.net/images/channels/telugu/Star_Maa_Music.png" group-title="Telugu",Star Maa Music
