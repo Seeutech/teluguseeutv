@@ -4,7 +4,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifes
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="Telugu",Star Maa Movies HD
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Music" tvg-logo="https://watchindia.net/images/channels/telugu/Star_Maa_Music.png" group-title="Telugu",Star Maa Music
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2192.ts
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="Star Maa Gold" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="Telugu",Star Maa Gold
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/935.ts
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Gemini TV" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="Telugu",Gemini TV
