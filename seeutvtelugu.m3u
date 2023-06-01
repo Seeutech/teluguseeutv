@@ -1,6 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 2
+#EXTINF: -1 tvg-id="516" tvg-name="Star Maa HD" tvg-chno="17" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" tvg-logo-small="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" audio-track="Telugu" group-title="{BH} HOTSTAR TV", Star Maa HD
+
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"VVMKKaXlXoj9Or7UTXZ9KA","kid":"nzps+7J0Ud2fKBZmyOYtgQ"}]}
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="Telugu",Star Maa Movies HD
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Music" tvg-logo="https://watchindia.net/images/channels/telugu/Star_Maa_Music.png" group-title="Telugu",Star Maa Music
