@@ -1,79 +1,49 @@
-#EXTM3U
-#EXTINF: -1 tvg-id="516" tvg-name="Star Maa HD" tvg-chno="17" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" tvg-logo-small="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" audio-track="Telugu" group-title="{BH} HOTSTAR TV", Star Maa HD
+#EXTM3U 
 
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
+#EXTINF: -1 tvg-id="289" tvg-name="@Binge_Hub" tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4747917/841348961.jpg" audio-track="Tamil" group-title="{BH} JOIN OUR TELEGRAM CHANNEL @bingehubtamilan", Binge Hub™-Officials Channel
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://t.me/bingehubtamilan
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF: -1 tvg-id="289" tvg-name="@Binge_Hub" tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4747917/841348961.jpg" audio-track="Tamil" group-title="{BH} JOIN OUR TELEGRAM CHANNEL @bingehubtamilan", Binge Hub™-Officials Channel
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://t.me/bingehubtamilan
 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"VVMKKaXlXoj9Or7UTXZ9KA","kid":"nzps+7J0Ud2fKBZmyOYtgQ"}]}
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="Telugu",Star Maa Movies HD
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Music" tvg-logo="https://watchindia.net/images/channels/telugu/Star_Maa_Music.png" group-title="Telugu",Star Maa Music
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
-#EXTINF:-1 tvg-id="maagold.in" tvg-name="Star Maa Gold" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="Telugu",Star Maa Gold
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/935.ts
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Gemini TV" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="Telugu",Gemini TV
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/928.ts
-#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="Telugu",Gemini Comedy
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/971.ts
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
-https://t.me/seeutv
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="Telugu",Gemini Movies HD
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/930.ts
-#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="Gemini Music HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="Telugu",Gemini Music HD
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/929.ts
-#EXTINF:-1 tvg-id="geminilife.in" tvg-name="Gemini Life HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="Telugu",Gemini Life HD
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/931.ts
-#EXTINF:-1 tvg-id="tataskyfitness.in" tvg-name="Gemini News" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_News.png" group-title="Telugu",Gemini News
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/973.ts
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="Telugu",10 TV
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/981.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="Telugu",ABN News
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/980.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="Telugu",Bhakti TV
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/977.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="CVR News" tvg-logo="https://watchindia.net/images/channels/telugu/CVR_News.png" group-title="Telugu",CVR News
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/975.ts
-#EXTINF:-1 tvg-id="dd.saptagiri.in" tvg-name="DD Saptagiri" tvg-logo="https://watchindia.net/images/channels/telugu/DD_Saptagiri.png" group-title="Telugu",DD Saptagiri
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/974.ts
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
-https://t.me/seeutv
-#EXTINF:-1 tvg-id="etvtelugu.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="Telugu",ETV HD
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/936.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="Telugu",ETV HDhttp://watchindia.net:8880/live/dharmend/PTukavDWzh/2203.ts
-#EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV Life" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="Telugu",ETV Life
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/938.ts
-#EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV Plus" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="Telugu",ETV Plus
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/937.ts
-#EXTINF:-1 tvg-id="ntvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="Telugu",NTV News
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2193.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Raj Musix Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" group-title="Telugu",Raj Musix Telugu
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/957.ts
-#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="Raj News Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_News.png" group-title="Telugu",Raj News Telugu
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/956.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="Telugu",Sakshi TV
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/955.ts
-#EXTINF:-1 tvg-id="sony.yay.in" tvg-name="Sony Yay Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="Telugu",Sony Yay Telugu
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2126.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="Telugu",T News
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/949.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telugu Box Office" tvg-logo="https://watchindia.net/images/channels/telugu/TBO.png" group-title="Telugu",Telugu Box Office
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2155.ts
-#EXTINF:-1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" group-title="Telugu",Thanthi TV
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/947.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="Telugu",TV9
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/945.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="V6 News" tvg-logo="https://watchindia.net/images/channels/telugu/V6_News.png" group-title="Telugu",V6 News
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/943.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Vissa TV" tvg-logo="https://watchindia.net/images/channels/telugu/Vissa_TV.png" group-title="Telugu",Vissa TV
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/942.ts
-#EXTINF:-1 tvg-id="zee.cinemalu.in" tvg-name="Zee Cinemalu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="Telugu",Zee Cinemalu
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/941.ts
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
-https://t.me/seeutv
-#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="Telugu",Zee Telugu
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/940.ts
+#EXTINF: -1 tvg-id="566" tvg-logo="https://m3u-editor.com/storage/channel-logos/707097e0-fd69-11ed-b72b-11f099148e28/4824879/854784310.png" group-title="{BH} DISCOVERY+", Animal Planet
+
+https://toffee.sabbirhasan.trial.rocks/auto/animal_planet_sd.m3u8
+
+#EXTINF: -1 tvg-id="1219" tvg-name="Animal Planet HD" tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/707097e0-fd69-11ed-b72b-11f099148e28/4822700/854266800.png" tvg-logo-small="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" audio-track="Multi Audio" group-title="{BH} DISCOVERY+", Animal Planet HD
+
+https://discoveryplus.yashrajmod.repl.co/Animal_Planet.m3u8
+
+#EXTINF: -1 tvg-id="575" tvg-logo="https://m3u-editor.com/storage/channel-logos/707097e0-fd69-11ed-b72b-11f099148e28/4824879/854784312.png" group-title="{BH} DISCOVERY+", Discovery Channel
+
+https://toffee.sabbirhasan.trial.rocks/auto/discovery_sd.m3u8
+
+#EXTINF: -1 tvg-id="463" tvg-name="Discovery Channel HD" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-logo-small="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" audio-track="Multi Audio" group-title="{BH} DISCOVERY+", Discovery Channel HD
+
+https://discoveryplus.yashrajmod.repl.co/Discovery_Channel.m3u8
+
+#EXTINF: -1 tvg-id="550" tvg-name="Discovery Kids" tvg-chno="12" tvg-logo="https://m3u-editor.com/storage/channel-logos/707097e0-fd69-11ed-b72b-11f099148e28/4822700/854266810.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" audio-track="Multi Audio" group-title="{BH} DISCOVERY+", Discovery Kids
+
+https://discoveryplus.yashrajmod.repl.co/Discovery_Kids.m3u8
+
+#EXTINF: -1 tvg-id="568" tvg-name="Discovery Science" tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/707097e0-fd69-11ed-b72b-11f099148e28/4822700/854266801.png" tvg-logo-small="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" audio-track="Multi Audio" group-title="{BH} DISCOVERY+", Discovery Science
+
+https://discoveryplus.yashrajmod.repl.co/Discovery_Science.m3u8
+
+#EXTINF: -1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="{BH} DISCOVERY+", Discovery Tamil
+
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=945909&extension=ts&play_token=2T63YGCjhJ
+
+#EXTINF: -1 tvg-id="541" tvg-name="Discovery Turbo" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/707097e0-fd69-11ed-b72b-11f099148e28/4822700/854266803.png" tvg-logo-small="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png" audio-track="Multi Audio" group-title="{BH} DISCOVERY+", Discovery Turbo
+
+https://discoveryplus.yashrajmod.repl.co/Discovery_Turbo.m3u8
+
+#EXTINF: -1 tvg-id="599" tvg-name="DMAX" tvg-chno="8" tvg-logo="https://m3u-editor.com/storage/channel-logos/707097e0-fd69-11ed-b72b-11f099148e28/4822700/854266806.png" tvg-logo-small="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" audio-track="English" group-title="{BH} DISCOVERY+", DMAX
+
+https://discoveryplus.yashrajmod.repl.co/DMAX.m3u8
+
+#EXTINF: -1 tvg-id="1294" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="{BH} DISCOVERY+", Eurosport
+
+https://www.livesportsclub.tk/jioplay/autoq.php?c=1294&e=.m3u8
